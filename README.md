@@ -130,7 +130,7 @@ The ultrasonic sensor is mounted on a servo motor to scan an area, detecting obj
   - Measures the **duration** of the echo pulse.
   - Calculates the **distance** based on the speed of sound.
 
-### 🖥️ Processing Code Explanation (`sonar.pde`)
+### 🖥️ Processing Code Explanation (`sonar-processing.pde`)
 
 - **Libraries and Variables**:
   - Imports the `processing.serial.*` library for **serial communication**.
@@ -163,7 +163,7 @@ The ultrasonic sensor is mounted on a servo motor to scan an area, detecting obj
 2. **Upload the Arduino Sketch** 🖲️ to your Arduino board.
 
 3. **Run the Processing Sketch**:
-   - Open `sonar.pde` in the Processing IDE.
+   - Open `sonar-processing.pde` in the Processing IDE.
    - Click the **Run** button ▶️.
 
 4. **Observe the Sonar Visualization** 👀:
@@ -194,10 +194,7 @@ The ultrasonic sensor is mounted on a servo motor to scan an area, detecting obj
 
 ## 📜 Credits
 
-- **Original Project by**: Dejan Nedelkovski, [HowToMechatronics](https://www.howtomechatronics.com/projects/arduino-sonar-project/)
-- **Code Translation and Optimization by**: PontoMakers
-- **Readme Created by**: [Your Name]
-
+- **Original Project by**: Dejan Nedelkovski, [HowToMechatronics](https://howtomechatronics.com/projects/arduino-radar-project/)
 ---
 
 🤖 **Feel free to contribute** to this project, submit issues, or fork it to build your version. Enjoy building your Arduino sonar system!
@@ -205,5 +202,3 @@ The ultrasonic sensor is mounted on a servo motor to scan an area, detecting obj
 🔧 **Happy Making!** 🔧
 
 ---
-
-This version of your README is formatted to be more visually appealing, using emojis to break up the sections and adding some extra flair to make it fun to read. Let me know if there’s anything else you’d like to adjust! 😊
