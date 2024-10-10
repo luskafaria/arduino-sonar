@@ -2,7 +2,7 @@
 
 Create your very own Arduino-based sonar system using an ultrasonic sensor, a servo motor, and Processing to visualize it on your screen! This project simulates a sonar scanning for objects, displaying their distances and angles in real-time.
 
-![Sonar Visualization](https://github.com/luskafaria/arduino-sonar/blob/main/image.png?raw=true)
+![Sonar Visualization](https://github.com/luskafaria/arduino-sonar/blob/main/sonar_visualization.png?raw=true)
 ---
 
 ## 🚀 Table of Contents
@@ -48,7 +48,7 @@ The ultrasonic sensor is mounted on a servo motor to scan an area, detecting obj
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](https://your-image-link-here.com/circuit_diagram.png)
+![Circuit Diagram](https://github.com/luskafaria/arduino-sonar/blob/main/circuit_diagram.png?raw=true)
 
 ### 📐 Connections:
 
